@@ -237,7 +237,7 @@
   /* FOOTER
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .page-footer {
-    text-align: right;
+    text-align: center;
     font-size: 1rem;
     color: var(--text_light);
     margin-top: 40px;
